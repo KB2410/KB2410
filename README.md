@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KB2410
+- 👋 Hi, I’m @Kartik
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Blockchian Technology 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Email:kartikbotre2410@gmail.com
 - 😄 Pronouns:Male
 - ⚡ Fun fact: ...
 
